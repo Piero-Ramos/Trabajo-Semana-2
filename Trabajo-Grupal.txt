@@ -1,2 +1,5 @@
+
+Rodrigo Reyna: ¡Trabajando en mi primera contribución!. 
 Piero Ramos: Poniendo en practica la resolucion de conflictos en el github.
 Mathias Salazar !Trabajando en mi primera rama!
+
